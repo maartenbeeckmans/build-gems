@@ -114,6 +114,7 @@ thin
 thor
 tilt
 tuxml
+rexml
 ultrasphinx
 validates_url_format_of
 veewee
